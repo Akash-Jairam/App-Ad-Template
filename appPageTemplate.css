@@ -1,0 +1,54 @@
+ body {
+
+        position: relative;
+
+      }
+
+
+      
+
+      #jumbotron1 {
+
+        background-image: url(http://akashjairam.com/App_Page_Template/background.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+
+      }
+
+      #email{
+
+        width: 200px;
+
+      }
+
+      #whyAwesome{
+
+        font-size: 40px;
+
+      }
+
+      .cardPic{
+
+        height: 350px;
+        width: 350px;
+
+      }
+
+      #longCardPic{
+
+        height: 241px;
+        width: 300px;
+      }
+
+      .cardPic{
+
+        height: 242px;
+        width: 300px;
+      }
+
+      #jumbotron2 {
+
+        background-color: #00BFFE;
+        width: 100%;
+
+      }
